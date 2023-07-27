@@ -1,1 +1,1 @@
-# python-api-challenge
+This repo contains two folders: WeatherPy and VacationPy. Each has a Jupyter Notebook that analyzes various weather and geological coordinates data.
